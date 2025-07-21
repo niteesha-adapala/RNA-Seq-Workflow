@@ -27,23 +27,23 @@ This project investigates **differential gene expression** across human **liver*
 
 ## 🧪 Pipeline Workflow
 
-### 1. 🧼 Data Preprocessing
+### 1. Data Preprocessing
 - **Quality Control:** FastQC v0.11.9
 - **Trimming:** Trim Galore (adapter removal & quality trimming)
 
-### 2. 🧬 Alignment & Quantification
+### 2. Alignment & Quantification
 - **Read Mapping:** HISAT2 to human reference genome
 - **Post-Processing:** SAMtools for SAM/BAM handling
 - **Visualization:** IGV (Integrative Genomics Viewer)
 
-### 3. 📈 Differential Expression Analysis (RStudio v4.3.1)
+### 3. Differential Expression Analysis (RStudio v4.3.1)
 - **Tools:** DESeq2, edgeR, Genefilter, Pheatmap, RColorBrewer
 - **Visuals & Outputs:**
   - PCA & MDS plots to cluster tissues
   - Smear plots & heatmaps for DEGs
   - Tables of statistically significant up/downregulated genes
 
-### 4. 🧠 Functional Interpretation
+### 4. Functional Interpretation
 - **Enrichment Analysis:** DAVID for GO and KEGG pathways
 - **Gene Network Analysis:** STRING database for interaction mapping
 
@@ -63,7 +63,4 @@ This project investigates **differential gene expression** across human **liver*
 - Contribution to **clinical diagnostics** and **transcriptomic-based screening**
 - Foundation for **precision medicine** and **biomarker development**
 
----
-
-## 📁 Repository Structure
 
