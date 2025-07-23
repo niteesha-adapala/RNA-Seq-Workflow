@@ -4,7 +4,6 @@
 
 This project investigates **differential gene expression** across human **liver** and **skin** tissues using a complete NGS-based RNA-Seq analysis pipeline. Leveraging publicly available transcriptomic datasets from the **Human Protein Atlas**, the study aims to uncover **tissue-specific gene signatures** and **biological pathways**, with an emphasis on understanding **liver-related skin manifestations**.
 
----
 
 ## 🔍 Objectives
 
@@ -13,7 +12,6 @@ This project investigates **differential gene expression** across human **liver*
 - Discover key **gene interactions**, **biological functions**, and **pathway enrichments**.
 - Explore **cutaneous indicators** of liver dysfunction to support **biomarker discovery** and **diagnostic development**.
 
----
 
 ## 📊 Data & Tools
 
@@ -23,7 +21,6 @@ This project investigates **differential gene expression** across human **liver*
 ### Technology Platform
 - **Next-Generation Sequencing (NGS)**
 
----
 
 ## 🧪 Pipeline Workflow
 
@@ -55,7 +52,6 @@ This project investigates **differential gene expression** across human **liver*
 - **Skin-Specific Genes:** Upregulation of **keratin genes** (KRT1–KRT14)
 - **Biological Link:** Molecular support for **skin symptoms in liver disease** (e.g., jaundice, keratin changes)
 
----
 
 ## 📌 Applications
 
