@@ -4,7 +4,6 @@
 
 This project investigates **differential gene expression** across human **liver** and **skin** tissues using a complete NGS-based RNA-Seq analysis pipeline. Leveraging publicly available transcriptomic datasets from the **Human Protein Atlas**, the study aims to uncover **tissue-specific gene signatures** and **biological pathways**, with an emphasis on understanding **liver-related skin manifestations**.
 
-
 ## 🔍 Objectives
 
 - Identify **Differentially Expressed Genes (DEGs)** between liver and skin tissues.
